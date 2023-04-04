@@ -2,6 +2,18 @@
 
 My personal takes on learning how the RSC works in a simple application.
 
+## How to use the repo
+Follow this steps on your terminal
+
+```bash
+$ git clone https://github.com/moebiusmania/rsc-demo
+$ cd rsc-demo
+$ npm ci
+$ npm run dev
+```
+
+then open `http://localhost:3000` in a browser
+
 ## Stuff in the project
 
 - [Next.js 13](https://nextjs.org/)
